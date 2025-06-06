@@ -8,9 +8,9 @@ Our objective building a **text classification model** using **Naive Bayes** to 
 Build a predictive model to classify app reviews into **positive (1)** or **negative (0)** sentiment using Naive Bayes.
 
 **Dataset:**  
-package_names: Name of the mobile application (categorical)
-review: Comment about the mobile application (categorical)
-polarity: Class variable (0 or 1), being 0 a negative comment and 1, positive (categorical numeric)
+- `package_names`: Name of the mobile application (categorical)
+- `review`: Comment about the mobile application (categorical)
+- `polarity`: Class variable (0 or 1), being 0 a negative comment and 1, positive (categorical numeric)
 
 ## 🧠 Learning Objectives
 
