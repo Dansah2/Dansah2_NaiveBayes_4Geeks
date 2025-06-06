@@ -1,6 +1,25 @@
-# Data Science Project Boilerplate
+# 📱 Naive Bayes Sentiment Analysis – Google Play Reviews
 
-This boilerplate is designed to kickstart data science projects by providing a basic setup for database connections, data processing, and machine learning model development. It includes a structured folder organization for your datasets and a set of pre-defined Python packages necessary for most data science tasks.
+Our objective building a **text classification model** using **Naive Bayes** to predict sentiment (positive or negative) in **Google Play Store reviews**.
+
+## 🔍 Project Overview
+
+**Goal:**  
+Build a predictive model to classify app reviews into **positive (1)** or **negative (0)** sentiment using Naive Bayes.
+
+**Dataset:**  
+package_names: Name of the mobile application (categorical)
+review: Comment about the mobile application (categorical)
+polarity: Class variable (0 or 1), being 0 a negative comment and 1, positive (categorical numeric)
+
+## 🧠 Learning Objectives
+
+- Perform basic text preprocessing  
+- Convert text into numerical features using `CountVectorizer`  
+- Train and compare three types of Naive Bayes classifiers  
+- Evaluate model performance and optimize  
+- Save and persist trained models for reuse  
+- Explore additional model alternatives  
 
 ## Structure
 
