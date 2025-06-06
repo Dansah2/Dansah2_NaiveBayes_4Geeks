@@ -1,4 +1,4 @@
-# 📱 Naive Bayes Sentiment Analysis – Google Play Reviews
+# 📱 Evaluating the Sentiment of Google Play Reviews using Naive Bayes
 
 Our objective building a **text classification model** using **Naive Bayes** to predict sentiment (positive or negative) in **Google Play Store reviews**.
 
